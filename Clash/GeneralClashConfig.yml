@@ -888,6 +888,8 @@ cfw-bypass:
   - "*.zhipin.com"
   - "*.zhongsou.com"
   - "*.zhuihd.com"
+  - "*.cmbchina.com"
+  - "*.95516.com"
   - "localhost"
   - 127.*
   - 10.*
